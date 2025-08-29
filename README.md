@@ -65,5 +65,6 @@ Open your web browser and navigate to `http://localhost:8501` to access the app.
 - Want to improve this project? Feel free to fork and submit PRs!
 
 MIT License
+
 Copyright (c) 2025 Anzar Ahmad
 
